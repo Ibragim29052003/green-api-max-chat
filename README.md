@@ -3,6 +3,8 @@
 Минималистичный React-клиент для отправки и получения текстовых сообщений в
 мессенджере MAX через GREEN-API.
 
+[Открыть приложение](https://ibragim29052003.github.io/green-api-max-chat/)
+
 ## Возможности
 
 - подключение по `apiUrl`, `idInstance` и `apiTokenInstance`;
